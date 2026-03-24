@@ -23,15 +23,7 @@ The architecture is:
 3. **`drone_simulator_node.py`** simulates the drone dynamics.
 4. **`plot_results.py`** optionally plots the logged results.
 
-## Why this is a good project for GitHub
 
-It shows several important skills in one repository:
-- ROS 2 node development in Python,
-- control engineering,
-- MPC formulation,
-- numerical optimization with `cvxpy`,
-- simulation and evaluation,
-- good project structure and documentation.
 
 ## ROS 2 target
 
